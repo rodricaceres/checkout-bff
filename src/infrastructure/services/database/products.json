@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Vaso",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 5
+  },
+  {
+    "id": 1,
+    "name": "Libro",
+    "image": "",
+    "price": 10,
+    "currency": "EUR",
+    "quantity": 5
+  },
+  {
+    "id": 1,
+    "name": "Auto Azul",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 5
+  },
+  {
+    "id": 1,
+    "name": "Moto Rojo",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 5
+  },
+  {
+    "id": 1,
+    "name": "Vaso Rojo",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 99
+  },
+  {
+    "id": 1,
+    "name": "Auto Rojo",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 12
+  },
+  {
+    "id": 1,
+    "name": "Moto Azul",
+    "image": "",
+    "price": 10,
+    "currency": "USD",
+    "quantity": 12
+  },
+  {
+    "id": 1,
+    "name": "Mesa Roja",
+    "image": "",
+    "price": 10,
+    "currency": "ARS",
+    "quantity": 33
+  }
+]
